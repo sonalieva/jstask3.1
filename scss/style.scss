@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+   
+}
+.list-group-item:hover{
+    background-color: gray;
+    transition: 0.2s;
+}
+.none{
+    margin-left: -257px;
+    transition:0.5s;
+}
